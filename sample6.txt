@@ -1,0 +1,1 @@
+Learning to create sample text file from terminal for Git workflow
